@@ -1,0 +1,3 @@
+Using Naives Bayes
+Spam_ham dataset: Accuracy of 97.59
+Emails dataset: Accuracy of 92.95
